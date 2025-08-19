@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+*.log
+build/
+.env
+git remote add origin https://github.com/sandeepg-web/22KD1A0551.git
